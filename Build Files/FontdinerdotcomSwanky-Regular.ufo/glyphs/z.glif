@@ -16,10 +16,4 @@
       <point x="14" y="521" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>0</integer>
-    </dict>
-  </lib>
 </glyph>

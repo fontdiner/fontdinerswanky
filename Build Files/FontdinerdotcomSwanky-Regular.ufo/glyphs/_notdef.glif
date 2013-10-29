@@ -3,10 +3,4 @@
   <advance width="328"/>
   <outline>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>0</integer>
-    </dict>
-  </lib>
 </glyph>

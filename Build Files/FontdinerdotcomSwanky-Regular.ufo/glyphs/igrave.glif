@@ -3,13 +3,20 @@
   <advance width="403"/>
   <unicode hex="00EC"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="grave" xOffset="-195" yOffset="31"/>
+    <contour>
+      <point x="456" y="-2" type="line"/>
+      <point x="8" y="6" type="line"/>
+      <point x="174" y="109" type="line"/>
+      <point x="160" y="441" type="line"/>
+      <point x="-31" y="531" type="line"/>
+      <point x="336" y="531" type="line"/>
+      <point x="303" y="102" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="669" type="line"/>
+      <point x="210" y="625" type="line"/>
+      <point x="103" y="822" type="line"/>
+      <point x="239" y="883" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>0</integer>
-    </dict>
-  </lib>
 </glyph>

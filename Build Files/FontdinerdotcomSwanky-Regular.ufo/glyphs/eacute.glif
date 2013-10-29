@@ -3,13 +3,68 @@
   <advance width="608"/>
   <unicode hex="00E9"/>
   <outline>
-    <component base="e"/>
-    <component base="acute" xOffset="-31" yOffset="-205"/>
+    <contour>
+      <point x="598" y="177"/>
+      <point x="598" y="173"/>
+      <point x="598" y="168" type="curve"/>
+      <point x="597" y="163"/>
+      <point x="597" y="159"/>
+      <point x="597" y="154" type="curve"/>
+      <point x="190" y="146" type="line"/>
+      <point x="207" y="67"/>
+      <point x="276" y="31"/>
+      <point x="353" y="31" type="curve" smooth="yes"/>
+      <point x="390" y="31"/>
+      <point x="430" y="36"/>
+      <point x="467" y="48" type="curve" smooth="yes"/>
+      <point x="504" y="60"/>
+      <point x="538" y="79"/>
+      <point x="565" y="106" type="curve"/>
+      <point x="550" y="50"/>
+      <point x="514" y="7"/>
+      <point x="467" y="-21" type="curve" smooth="yes"/>
+      <point x="419" y="-49"/>
+      <point x="362" y="-63"/>
+      <point x="307" y="-63" type="curve" smooth="yes"/>
+      <point x="232" y="-63"/>
+      <point x="163" y="-35"/>
+      <point x="113" y="12" type="curve" smooth="yes"/>
+      <point x="63" y="59"/>
+      <point x="31" y="126"/>
+      <point x="31" y="203" type="curve" smooth="yes"/>
+      <point x="31" y="284"/>
+      <point x="67" y="352"/>
+      <point x="122" y="400" type="curve" smooth="yes"/>
+      <point x="177" y="447"/>
+      <point x="251" y="473"/>
+      <point x="330" y="473" type="curve" smooth="yes"/>
+      <point x="413" y="473"/>
+      <point x="479" y="440"/>
+      <point x="526" y="387" type="curve" smooth="yes"/>
+      <point x="573" y="334"/>
+      <point x="598" y="262"/>
+      <point x="598" y="182" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="445" y="233" type="line"/>
+      <point x="442" y="269"/>
+      <point x="430" y="304"/>
+      <point x="409" y="329" type="curve" smooth="yes"/>
+      <point x="388" y="354"/>
+      <point x="358" y="371"/>
+      <point x="318" y="371" type="curve" smooth="yes"/>
+      <point x="278" y="371"/>
+      <point x="249" y="355"/>
+      <point x="229" y="331" type="curve" smooth="yes"/>
+      <point x="209" y="306"/>
+      <point x="197" y="272"/>
+      <point x="190" y="237" type="curve"/>
+    </contour>
+    <contour>
+      <point x="463" y="736" type="line"/>
+      <point x="360" y="547" type="line"/>
+      <point x="265" y="588" type="line"/>
+      <point x="335" y="794" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>0</integer>
-    </dict>
-  </lib>
 </glyph>
