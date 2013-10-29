@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="724"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="507" y="638" type="line"/>
+      <point x="405" y="594" type="line"/>
+      <point x="298" y="791" type="line"/>
+      <point x="434" y="852" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
